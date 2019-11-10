@@ -1,0 +1,16 @@
+Below are the assumptions for the project
+
+Exercise 1
+1. This will call the api looking for a resource available at your base url /user
+   
+Since the request is passing user detail in the base url .. I have used user token to fetch the user results
+
+Exercise 2
+1. This will call your api looking for a range of different sorting options at your base url /sort Your Api needs to call the "products" 
+
+I have included a list of products and created data set and displayed results based on the sort option
+
+Exercise 3
+This will call your api looking for a resource available at your base url /trolleyTotal which should return the lowest possible total based on provided lists of prices, specials and quantities.
+
+I have used user token to calculate the lowest possible total from the different provided lists of the respective token associated member .. It will fetch the lowest total for the corresponding token passed in the request
